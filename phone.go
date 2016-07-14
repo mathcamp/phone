@@ -1,3 +1,5 @@
+// Package phone is a package to parse phone numbers from strings. It figures out the country and the other details for a given phone number and supports 156 countries as of now.
+// It also supports checking for test and toll free phone numbers within the US.
 package phone
 
 import "fmt"
@@ -71,6 +73,21 @@ func (p *Phone) String() string {
 var phoneCoder = phonegeocode.New()
 var numberCleaner = strings.NewReplacer(".", "", "-", "", " ", "", "(", "", ")", "", "\u00a0", "")
 
+
+
+// Parse phone numbers.
+var defaultOpts = ParsingOpts{}
+
+// Parses a phone number string as a Phone object and returns a descriptive error if the number is invalid or unsupported
+func ParseNumber(number string) (*Phone, error) {
+	return ParseNumberWithOpts(number, defaultOpts)
+}
+
+// Same as ParseNumber. The given country is used as the default if the country cannot be found
+func ParseNumberForCountry(number string, defaultCountry string) (*Phone, error) {
+	return ParseNumberWithOpts(number, ParsingOpts{DefaultCountry: defaultCountry})
+}
+
 // Used for parsing phone numbers defined as constants
 // Panics if the number is invalid
 func MustParse(number string) Phone {
@@ -79,18 +96,6 @@ func MustParse(number string) Phone {
 		panic(fmt.Sprintf("Trying to MustParse an invalid number: %s . Error: %s", number, err.Error()))
 	}
 	return *phone
-}
-
-// Parse phone numbers.
-var defaultOpts = ParsingOpts{}
-
-func ParseNumber(number string) (*Phone, error) {
-	return ParseNumberWithOpts(number, defaultOpts)
-}
-
-// Parse phone numbers. The given country is used as the default if the country cannot be found
-func ParseNumberForCountry(number string, defaultCountry string) (*Phone, error) {
-	return ParseNumberWithOpts(number, ParsingOpts{DefaultCountry: defaultCountry})
 }
 
 func GetCountryFromPhone(number string) string {
