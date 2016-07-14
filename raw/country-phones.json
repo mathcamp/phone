@@ -1,0 +1,1272 @@
+{
+    "AE": {
+        "allowLeadingZero": true,
+        "code": 971,
+        "format": "########",
+        "maxLen": 10,
+        "minLen": 7,
+        "name": "United Arab Emirates"
+    },
+    "AG": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Antigua & Barbuda"
+    },
+    "AI": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Anguilla"
+    },
+    "AL": {
+        "allowLeadingZero": true,
+        "code": 355,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 7,
+        "name": "Albania"
+    },
+    "AM": {
+        "allowLeadingZero": true,
+        "code": 374,
+        "format": "##-###-####",
+        "maxLen": 8,
+        "minLen": 7,
+        "name": "Armenia"
+    },
+    "AO": {
+        "allowLeadingZero": false,
+        "code": 244,
+        "format": "###-###-####",
+        "maxLen": 9,
+        "minLen": 9,
+        "name": "Angola"
+    },
+    "AR": {
+        "allowLeadingZero": true,
+        "code": 54,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "Argentina"
+    },
+    "AT": {
+        "allowLeadingZero": true,
+        "code": 43,
+        "format": "#############",
+        "maxLen": 13,
+        "minLen": 4,
+        "name": "Austria"
+    },
+    "AU": {
+        "allowLeadingZero": true,
+        "code": 61,
+        "format": "###-###-####",
+        "local": "0### ### ###",
+        "i18": "+61 ### ### ###",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Australia"
+    },
+    "AZ": {
+        "allowLeadingZero": false,
+        "code": 994,
+        "format": "##-#######",
+        "maxLen": 9,
+        "minLen": 9,
+        "name": "Azerbaigan"
+    },
+    "BB": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Barbados"
+    },
+    "BE": {
+        "allowLeadingZero": true,
+        "code": 32,
+        "format": "##-##-##",
+        "maxLen": 9,
+        "minLen": 7,
+        "name": "Belgium"
+    },
+    "BG": {
+        "allowLeadingZero": true,
+        "code": 359,
+        "format": "##########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Bulgaria"
+    },
+    "BH": {
+        "allowLeadingZero": false,
+        "code": 973,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Bahrain"
+    },
+    "BF": {
+        "allowLeadingZero": false,
+        "code": 226,
+        "format": "##-##-##-##",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Burkina Faso"
+    },
+    "BJ": {
+        "allowLeadingZero": false,
+        "code": 229,
+        "format": "####-####",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Benin"
+    },
+    "BM": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Bermuda"
+    },
+    "BN": {
+        "allowLeadingZero": true,
+        "code": 673,
+        "format": "###-####",
+        "maxLen": 7,
+        "minLen": 7,
+        "name": "Brunei"
+    },
+    "BO": {
+        "allowLeadingZero": false,
+        "code": 591,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Bolivia"
+    },
+    "BR": {
+        "allowLeadingZero": false,
+        "code": 55,
+        "format": "#########",
+        "maxLen": 12,
+        "minLen": 8,
+        "name": "Brazil"
+    },
+    "BS": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Bahamas"
+    },
+    "BT": {
+        "allowLeadingZero": false,
+        "code": 975,
+        "format": "##-#-#####",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Bhutan"
+    },
+    "BW": {
+        "allowLeadingZero": false,
+        "code": 267,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 7,
+        "name": "Botswana"
+    },
+    "BY": {
+        "allowLeadingZero": false,
+        "code": 375,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 9,
+        "name": "Belarus"
+    },
+    "BZ": {
+        "allowLeadingZero": false,
+        "code": 501,
+        "format": "#######",
+        "maxLen": 7,
+        "minLen": 7,
+        "name": "Belize"
+    },
+    "CA": {
+        "allowLeadingZero": true,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "Canada"
+    },
+    "CG": {
+        "allowLeadingZero": true,
+        "code": 242,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Congo, Republic of"
+    },
+    "CH": {
+        "allowLeadingZero": true,
+        "code": 41,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Switzerland"
+    },
+    "CL": {
+        "allowLeadingZero": true,
+        "code": 56,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 8,
+        "name": "Chile"
+    },
+    "CN": {
+        "allowLeadingZero": false,
+        "code": 86,
+        "format": "###########",
+        "maxLen": 11,
+        "minLen": 11,
+        "name": "China"
+    },
+    "CO": {
+        "allowLeadingZero": true,
+        "code": 57,
+        "format": "############",
+        "maxLen": 12,
+        "minLen": 10,
+        "name": "Colombia"
+    },
+    "CR": {
+        "allowLeadingZero": false,
+        "code": 506,
+        "format": "####-####",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Costa Rica"
+    },
+    "CV": {
+        "allowLeadingZero": false,
+        "code": 238,
+        "format": "###-####",
+        "maxLen": 7,
+        "minLen": 7,
+        "name": "Cape Verde"
+    },
+    "CY": {
+        "allowLeadingZero": false,
+        "code": 357,
+        "format": "#########",
+        "maxLen": 8,
+        "minLen": 7,
+        "name": "Cyprus"
+    },
+    "CZ": {
+        "allowLeadingZero": false,
+        "code": 420,
+        "format": "###-###-###",
+        "maxLen": 9,
+        "minLen": 9,
+        "name": "Czech Republic"
+    },
+    "DE": {
+        "allowLeadingZero": true,
+        "code": 49,
+        "format": "###-########",
+        "maxLen": 11,
+        "minLen": 10,
+        "name": "Germany"
+    },
+    "DK": {
+        "allowLeadingZero": false,
+        "code": 45,
+        "format": "##-##-##-##",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Denmark"
+    },
+    "DM": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Dominica"
+    },
+    "DO": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Dominican Republic"
+    },
+    "DZ": {
+        "allowLeadingZero": false,
+        "code": 213,
+        "format": "##-######",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Algeria"
+    },
+    "EC": {
+        "allowLeadingZero": false,
+        "code": 593,
+        "format": "#######",
+        "maxLen": 9,
+        "minLen": 7,
+        "name": "Ecuador"
+    },
+    "EE": {
+        "allowLeadingZero": false,
+        "code": 372,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 7,
+        "name": "Estonia"
+    },
+    "EG": {
+        "allowLeadingZero": true,
+        "code": 20,
+        "format": "##-##-####-####",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "Egypt"
+    },
+    "ES": {
+        "allowLeadingZero": false,
+        "code": 34,
+        "format": "##-###-####",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Spain"
+    },
+    "FI": {
+        "allowLeadingZero": true,
+        "code": 358,
+        "format": "########",
+        "maxLen": 9,
+        "minLen": 4,
+        "name": "Finland"
+    },
+    "FJ": {
+        "allowLeadingZero": false,
+        "code": 679,
+        "format": "###-####",
+        "maxLen": 7,
+        "minLen": 7,
+        "name": "Fiji"
+    },
+    "FM": {
+        "allowLeadingZero": false,
+        "code": 691,
+        "format": "###-####",
+        "maxLen": 7,
+        "minLen": 7,
+        "name": "Micronesia"
+    },
+    "FR": {
+        "allowLeadingZero": true,
+        "code": 33,
+        "format": "############",
+        "maxLen": 12,
+        "minLen": 9,
+        "name": "France"
+    },
+    "GB": {
+      "allowLeadingZero": true,
+      "code": 44,
+      "format": "####-######",
+      "local": "0####-######",
+      "i18": "+44 ## #### ####",
+      "maxLen": 11,
+      "minLen": 9,
+      "name": "United Kingdom"
+    },
+    "GD": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Grenada"
+    },
+    "GH": {
+        "allowLeadingZero": true,
+        "code": 233,
+        "format": "###-#######",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "Ghana"
+    },
+    "GM": {
+        "allowLeadingZero": false,
+        "code": 220,
+        "format": "###-####",
+        "maxLen": 9,
+        "minLen": 9,
+        "name": "Gambia"
+    },
+    "GR": {
+        "allowLeadingZero": false,
+        "code": 30,
+        "format": "##-#-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Greece"
+    },
+    "GT": {
+        "allowLeadingZero": false,
+        "code": 502,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Guatemala"
+    },
+    "GW": {
+        "allowLeadingZero": false,
+        "code": 245,
+        "format": "######",
+        "maxLen": 6,
+        "minLen": 6,
+        "name": "Guinea-Bissau"
+    },
+    "GU": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "local": "(###)-###-####",
+        "i18n": "+1 ###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Guam"
+    },
+    "GY": {
+        "allowLeadingZero": false,
+        "code": 592,
+        "format": "#######",
+        "maxLen": 7,
+        "minLen": 7,
+        "name": "Guyana"
+    },
+    "HK": {
+        "allowLeadingZero": false,
+        "code": 852,
+        "format": "####-####",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Hong Kong"
+    },
+    "HN": {
+        "allowLeadingZero": false,
+        "code": 504,
+        "format": "####-####",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Honduras"
+    },
+    "HR": {
+        "allowLeadingZero": true,
+        "code": 385,
+        "format": "########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Croatia"
+    },
+    "HU": {
+        "allowLeadingZero": false,
+        "code": 36,
+        "format": "###########",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "Hungary"
+    },
+    "ID": {
+        "allowLeadingZero": false,
+        "code": 62,
+        "format": "############",
+        "maxLen": 12,
+        "minLen": 9,
+        "name": "Indonesia"
+    },
+    "IE": {
+        "allowLeadingZero": false,
+        "code": 353,
+        "format": "#######",
+        "maxLen": 9,
+        "minLen": 7,
+        "name": "Ireland"
+    },
+    "IL": {
+        "allowLeadingZero": true,
+        "code": 972,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "Israel"
+    },
+    "IN": {
+        "allowLeadingZero": false,
+        "code": 91,
+        "format": "##########",
+        "local": "+91 ##### #####",
+        "i18n": "+91 ##### #####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "India"
+    },
+    "IS": {
+        "allowLeadingZero": false,
+        "code": 354,
+        "format": "###-####",
+        "maxLen": 7,
+        "minLen": 7,
+        "name": "Iceland"
+    },
+    "IT": {
+        "allowLeadingZero": true,
+        "code": 39,
+        "format": "###########",
+        "maxLen": 11,
+        "minLen": 9,
+        "name": "Italy"
+    },
+    "JM": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Jamaica"
+    },
+    "JO": {
+        "allowLeadingZero": true,
+        "code": 962,
+        "format": "########",
+        "maxLen": 10,
+        "minLen": 8,
+        "name": "Jordan"
+    },
+    "JP": {
+        "allowLeadingZero": true,
+        "code": 81,
+        "format": "##-####-####",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "Japan"
+    },
+    "KE": {
+        "allowLeadingZero": true,
+        "code": 254,
+        "format": "###-######",
+        "maxLen": 9,
+        "minLen": 9,
+        "name": "Kenya"
+    },
+    "KG": {
+        "allowLeadingZero": true,
+        "code": 996,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Kyrgyzstan"
+    },
+    "KH": {
+        "allowLeadingZero": true,
+        "code": 855,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "Cambodia"
+    },
+    "KN": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "St. Kitts & Nevis"
+    },
+    "KR": {
+        "allowLeadingZero": true,
+        "code": 82,
+        "format": "###########",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "South Korea"
+    },
+    "KW": {
+        "allowLeadingZero": false,
+        "code": 965,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Kuwait"
+    },
+    "KY": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Cayman Islands"
+    },
+    "KZ": {
+        "allowLeadingZero": false,
+        "code": 7,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Kazakhstan"
+    },
+    "LA": {
+        "allowLeadingZero": false,
+        "code": 856,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Laos"
+    },
+    "LB": {
+        "allowLeadingZero": true,
+        "code": 961,
+        "format": "#######",
+        "maxLen": 10,
+        "minLen": 6,
+        "name": "Lebanon"
+    },
+    "LC": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "St. Lucia"
+    },
+    "LK": {
+        "allowLeadingZero": true,
+        "code": 94,
+        "format": "###-#-######",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "Sri Lanka"
+    },
+    "LR": {
+        "allowLeadingZero": false,
+        "code": 231,
+        "format": "#######",
+        "maxLen": 7,
+        "minLen": 7,
+        "name": "Liberia"
+    },
+    "LT": {
+        "allowLeadingZero": false,
+        "code": 370,
+        "format": "##-###-####",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Lithuania"
+    },
+    "LU": {
+        "allowLeadingZero": false,
+        "code": 352,
+        "format": "###-###-####",
+        "maxLen": 9,
+        "minLen": 9,
+        "name": "Luxembourg"
+    },
+    "LV": {
+        "allowLeadingZero": false,
+        "code": 371,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Lativa"
+    },
+    "MD": {
+        "allowLeadingZero": true,
+        "code": 373,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 7,
+        "name": "Moldova"
+    },
+    "MG": {
+        "allowLeadingZero": true,
+        "code": 261,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Madagascar"
+    },
+    "MK": {
+        "allowLeadingZero": false,
+        "code": 389,
+        "format": "##-###-###",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Macedonia"
+    },
+    "ML": {
+        "allowLeadingZero": false,
+        "code": 223,
+        "format": "####-####",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Mali"
+    },
+    "MN": {
+        "allowLeadingZero": false,
+        "code": 976,
+        "format": "##-######",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Mongolia"
+    },
+    "MO": {
+        "allowLeadingZero": false,
+        "code": 853,
+        "format": "####-####",
+        "maxLen": 8,
+        "minLen": 7,
+        "name": "Macau"
+    },
+    "MR": {
+        "allowLeadingZero": false,
+        "code": 222,
+        "format": "####-####",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Mauritania"
+    },
+    "MS": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Montserrat"
+    },
+    "MT": {
+        "allowLeadingZero": false,
+        "code": 356,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Malta"
+    },
+    "MU": {
+        "allowLeadingZero": false,
+        "code": 230,
+        "format": "####-####",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Mauritius"
+    },
+    "MW": {
+        "allowLeadingZero": false,
+        "code": 265,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 7,
+        "name": "Malawi"
+    },
+    "MX": {
+        "allowLeadingZero": false,
+        "code": 52,
+        "format": "#-##-####-####",
+        "maxLen": 11,
+        "minLen": 10,
+        "name": "Mexico"
+    },
+    "MY": {
+        "allowLeadingZero": true,
+        "code": 60,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 7,
+        "name": "Malaysia"
+    },
+    "MZ": {
+        "allowLeadingZero": false,
+        "code": 258,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Mozambique"
+    },
+    "NA": {
+        "allowLeadingZero": true,
+        "code": 264,
+        "format": "########",
+        "maxLen": 9,
+        "minLen": 7,
+        "name": "Namibia"
+    },
+    "NE": {
+        "allowLeadingZero": false,
+        "code": 227,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Niger"
+    },
+    "NG": {
+        "allowLeadingZero": true,
+        "code": 234,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "Nigeria"
+    },
+    "NI": {
+        "allowLeadingZero": false,
+        "code": 505,
+        "format": "#########",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Nicaragua"
+    },
+    "NL": {
+        "allowLeadingZero": true,
+        "code": 31,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Netherlands"
+    },
+    "NO": {
+        "allowLeadingZero": false,
+        "code": 47,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Norway"
+    },
+    "NP": {
+        "allowLeadingZero": false,
+        "code": 977,
+        "format": "########",
+        "maxLen": 10,
+        "minLen": 7,
+        "name": "Nepal"
+    },
+    "NZ": {
+        "allowLeadingZero": true,
+        "code": 64,
+        "format": "##-####-#####",
+        "maxLen": 11,
+        "minLen": 9,
+        "name": "New Zealand"
+    },
+    "OM": {
+        "allowLeadingZero": false,
+        "code": 968,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Oman"
+    },
+    "PA": {
+        "allowLeadingZero": false,
+        "code": 507,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Panama"
+    },
+    "PE": {
+        "allowLeadingZero": true,
+        "code": 51,
+        "format": "###-###-###",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Peru"
+    },
+    "PG": {
+        "allowLeadingZero": false,
+        "code": 675,
+        "format": "###-##-###",
+        "maxLen": 8,
+        "minLen": 7,
+        "name": "Papua New Guinea"
+    },
+    "PH": {
+        "allowLeadingZero": true,
+        "code": 63,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 7,
+        "name": "Philippines"
+    },
+    "PK": {
+        "allowLeadingZero": true,
+        "code": 92,
+        "format": "##-#######",
+        "maxLen": 10,
+        "minLen": 8,
+        "name": "Pakistan"
+    },
+    "PL": {
+        "allowLeadingZero": false,
+        "code": 48,
+        "format": "##-###-##-##",
+        "maxLen": 9,
+        "minLen": 9,
+        "name": "Poland"
+    },
+    "PR": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "local": "(###)-###-####",
+        "i18n": "+1 ###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Puerto Rico"
+    },
+    "PT": {
+        "allowLeadingZero": false,
+        "code": 351,
+        "format": "##-###-####",
+        "maxLen": 9,
+        "minLen": 9,
+        "name": "Portugal"
+    },
+    "PW": {
+        "allowLeadingZero": false,
+        "code": 680,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Palau"
+    },
+    "PY": {
+        "allowLeadingZero": true,
+        "code": 595,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Paraguay"
+    },
+    "QA": {
+        "allowLeadingZero": false,
+        "code": 974,
+        "format": "###-#####",
+        "maxLen": 8,
+        "minLen": 3,
+        "name": "Qatar"
+    },
+    "RO": {
+        "allowLeadingZero": true,
+        "code": 40,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Romania"
+    },
+    "RU": {
+        "allowLeadingZero": false,
+        "code": 7,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Russia"
+    },
+    "SA": {
+        "allowLeadingZero": false,
+        "code": 966,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "Saudi Arabia"
+    },
+    "SB": {
+        "allowLeadingZero": false,
+        "code": 677,
+        "format": "##-#####",
+        "maxLen": 7,
+        "minLen": 7,
+        "name": "Solomon Islands"
+    },
+    "SC": {
+        "allowLeadingZero": false,
+        "code": 248,
+        "format": "###-####",
+        "maxLen": 7,
+        "minLen": 7,
+        "name": "Seychelles"
+    },
+    "SE": {
+        "allowLeadingZero": true,
+        "code": 46,
+        "format": "#############",
+        "maxLen": 13,
+        "minLen": 9,
+        "name": "Sweden"
+    },
+    "SG": {
+        "allowLeadingZero": false,
+        "code": 65,
+        "format": "####-####",
+        "local": "+65-####-####",
+        "i18n": "+65-####-####",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Singapore"
+    },
+    "SI": {
+        "allowLeadingZero": true,
+        "code": 386,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Slovenia"
+    },
+    "SK": {
+        "allowLeadingZero": true,
+        "code": 421,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Slovakia"
+    },
+    "SL": {
+        "allowLeadingZero": true,
+        "code": 232,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 6,
+        "name": "Sierra Leone"
+    },
+    "SN": {
+        "allowLeadingZero": false,
+        "code": 221,
+        "format": "###-####",
+        "maxLen": 7,
+        "minLen": 7,
+        "name": "Senegal"
+    },
+    "SR": {
+        "allowLeadingZero": false,
+        "code": 597,
+        "format": "#######",
+        "maxLen": 7,
+        "minLen": 7,
+        "name": "Suriname"
+    },
+    "ST": {
+        "allowLeadingZero": false,
+        "code": 239,
+        "format": "###-####",
+        "maxLen": 7,
+        "minLen": 7,
+        "name": "Sao Tome & Principe"
+    },
+    "SV": {
+        "allowLeadingZero": false,
+        "code": 503,
+        "format": "####-####",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "El Salvador"
+    },
+    "SZ": {
+        "allowLeadingZero": false,
+        "code": 268,
+        "format": "##-##-####",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Swaziland"
+    },
+    "TC": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Turks & Caicos"
+    },
+    "TD": {
+        "allowLeadingZero": false,
+        "code": 235,
+        "format": "## ## ## ##",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Chad"
+    },
+    "TH": {
+        "allowLeadingZero": true,
+        "code": 66,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Thailand"
+    },
+    "TJ": {
+        "allowLeadingZero": false,
+        "code": 992,
+        "format": "############",
+        "maxLen": 12,
+        "minLen": 7,
+        "name": "Tajikistan"
+    },
+    "TM": {
+        "allowLeadingZero": false,
+        "code": 993,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 8,
+        "name": "Turkmenistan"
+    },
+    "TN": {
+        "allowLeadingZero": false,
+        "code": 216,
+        "format": "##-###-###",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Tunisia"
+    },
+    "TR": {
+        "allowLeadingZero": true,
+        "code": 90,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "Turkey"
+    },
+    "TT": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "Trinidad & Tobago"
+    },
+    "TW": {
+        "allowLeadingZero": true,
+        "code": 886,
+        "format": "####-######",
+        "maxLen": 10,
+        "minLen": 9,
+        "name": "Taiwan"
+    },
+    "TZ": {
+        "allowLeadingZero": true,
+        "code": 255,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 9,
+        "name": "Tanzania"
+    },
+    "UA": {
+        "allowLeadingZero": true,
+        "code": 380,
+        "format": "##########",
+        "maxLen": 10,
+        "minLen": 7,
+        "name": "Ukraine"
+    },
+    "UG": {
+        "allowLeadingZero": false,
+        "code": 256,
+        "format": "##-###-####",
+        "maxLen": 9,
+        "minLen": 9,
+        "name": "Uganda"
+    },
+    "US": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "local": "(###)-###-####",
+        "i18n": "+1 ###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "United States"
+    },
+    "UY": {
+        "allowLeadingZero": false,
+        "code": 598,
+        "format": "########",
+        "maxLen": 8,
+        "minLen": 8,
+        "name": "Uruguay"
+    },
+    "UZ": {
+        "allowLeadingZero": false,
+        "code": 998,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 9,
+        "name": "Uzbekistan"
+    },
+    "VC": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "St. Vincent & The Grenadines"
+    },
+    "VE": {
+        "allowLeadingZero": true,
+        "code": 58,
+        "format": "###########",
+        "maxLen": 11,
+        "minLen": 7,
+        "name": "Venezuela"
+    },
+    "VG": {
+        "allowLeadingZero": false,
+        "code": 1,
+        "format": "###-###-####",
+        "maxLen": 10,
+        "minLen": 10,
+        "name": "British Virgin Islands"
+    },
+    "VN": {
+        "allowLeadingZero": true,
+        "code": 84,
+        "format": "#########",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "Vietnam"
+    },
+    "YE": {
+        "allowLeadingZero": true,
+        "code": 967,
+        "format": "########",
+        "maxLen": 10,
+        "minLen": 6,
+        "name": "Yemen"
+    },
+    "ZA": {
+        "allowLeadingZero": true,
+        "code": 27,
+        "format": "##-###-####",
+        "maxLen": 9,
+        "minLen": 8,
+        "name": "South Africa"
+    },
+    "ZW": {
+        "allowLeadingZero": false,
+        "code": 263,
+        "format": "###########",
+        "maxLen": 11,
+        "minLen": 7,
+        "name": "Zimbabwe"
+    }
+}
